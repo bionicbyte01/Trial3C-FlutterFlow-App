@@ -1,2 +1,7 @@
-# Trial3C
-This is Trial3C FlutterFlow Project demostrating sketch of DERBAB App in simple lightweight scale.
+# Trial3c
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
