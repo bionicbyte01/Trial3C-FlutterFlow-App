@@ -1,6 +1,6 @@
 # Trial3c
 
-This is Trial3C FlutterFlow Project demostrating sketch of DERBAB App in simple lightweight scale..
+A new Flutter project.
 
 ## Getting Started
 
